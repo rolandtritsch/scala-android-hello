@@ -1,5 +1,21 @@
 package org.tritsch.scala.android.hello.build
 
+// @todo - add ensime
+// @todo - add tests
+// @todo - add timestamp
+// @todo - add documentation
+
+// @todo - add scaloid - hello world
+// @todo - add marcoid - hello world
+
+// @todo - add bluetooth
+
+// ---
+
+// @todo - read scalaonandroid
+// @todo - read/watch latest BLE on android stuff
+// @todo - ???
+
 import sbt._
 import sbt.Keys._
 import android.Keys._
